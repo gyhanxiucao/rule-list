@@ -1,9 +1,5 @@
 # 代理补充列表
 
-# 我自己的域名
-#DOMAIN-SUFFIX,lawai.ren
-#DOMAIN-SUFFIX,yangyangshu.top
-
 # 域名后缀匹配
 DOMAIN-SUFFIX,openwrt.org
 DOMAIN-SUFFIX,qichiyu.com
