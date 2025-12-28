@@ -1,0 +1,10 @@
+# 拦截名单
+
+# 域名后缀匹配
+DOMAIN-REGEX,947.fr
+DOMAIN-REGEX,993993.com
+DOMAIN-SUFFIX,telemetry.microsoft.com             # 拦截微软遥测
+DOMAIN-SUFFIX,doubleclick.net                           # Google广告
+
+
+

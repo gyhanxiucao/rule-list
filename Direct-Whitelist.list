@@ -1,0 +1,18 @@
+# 拦截白名单
+
+# 域名后缀匹配
+DOMAIN-REGEX,gh-proxy.com
+#DOMAIN,cp.cloudflare.com
+DOMAIN,time.windows.com
+DOMAIN-REGEX,outlook.office.*.com                    # 补救被WIN-SPY 和 WIN-EXTRA规则误杀的情形
+DOMAIN-SUFFIX,login.microsoftonline.com           # 补救被WIN-SPY 和 WIN-EXTRA规则
+DOMAIN-SUFFIX,msftconnecttest.com
+DOMAIN-SUFFIX,msftncsi.com
+DOMAIN-SUFFIX,outlook.office.com
+DOMAIN-SUFFIX,outlook.office365.com
+DOMAIN-SUFFIX,go.microsoft.com
+DOMAIN-SUFFIX,login.microsoftonline.com
+DOMAIN-SUFFIX,logincdn.msauth.net
+DOMAIN,sub.yangyangshu.com
+DOMAIN-SUFFIX,adblockplus.org
+

@@ -1,0 +1,76 @@
+# 代理补充列表
+
+# 我自己的域名
+#DOMAIN-SUFFIX,lawai.ren
+#DOMAIN-SUFFIX,yangyangshu.top
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,openwrt.org
+DOMAIN-SUFFIX,qichiyu.com
+DOMAIN-SUFFIX,7000.me
+DOMAIN-SUFFIX,17188.cc
+DOMAIN-SUFFIX,91mv.pw
+DOMAIN-SUFFIX,hsck.la
+DOMAIN-SUFFIX,75333.cc
+DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,jsdelivr.net
+DOMAIN-SUFFIX,thetvdb.org
+DOMAIN-SUFFIX,tmdb.org
+DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,a2zapk.io
+DOMAIN-SUFFIX,a2zapk.com
+DOMAIN-SUFFIX,androidfilehost.com
+DOMAIN-SUFFIX,skvalex.com
+DOMAIN-SUFFIX,unlockapk.com
+DOMAIN-SUFFIX,pling.com
+DOMAIN-SUFFIX,cloudflareclient.com
+DOMAIN-SUFFIX,ipify.org
+#DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,unpkg.com
+DOMAIN-SUFFIX,ipleak.net
+DOMAIN-SUFFIX,xda-developers.com
+DOMAIN-SUFFIX,xdaforums.com
+DOMAIN-SUFFIX,clash.wiki
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,iplark.com
+DOMAIN-SUFFIX,apkmirror.com
+DOMAIN-SUFFIX,zerossl.com                # SSL证书服务商
+DOMAIN-SUFFIX,letsencrypt.org           # SSL证书服务
+DOMAIN-SUFFIX,vul7.com
+DOMAIN-SUFFIX,alpinelinux.org
+DOMAIN-SUFFIX,uploadrar.com           # a2zapk下载
+DOMAIN-SUFFIX,npmjs.org                  # sub-store 构建下载pnpm
+DOMAIN,registry.npmmirror.com          # sub-store 构建下载
+DOMAIN-SUFFIX,ssrdog.com
+DOMAIN-SUFFIX,community.oneplus.com  #一加海外社区
+DOMAIN-SUFFIX,droidwin.com
+DOMAIN-SUFFIX,rclone.org
+
+# 域名关键字匹配
+DOMAIN-KEYWORD,1e100
+DOMAIN-KEYWORD,1panel
+community.oneplus.com
+
+
+# 国外DNS
+# 国外DNS
+#DOMAIN-SUFFIX,dns.google
+#DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
+DOMAIN-SUFFIX,dot.sb
+DOMAIN-SUFFIX,dns.umbrella.com
+DOMAIN-SUFFIX,dns.quad9.net
+DOMAIN-SUFFIX,dns.google
+#DOMAIN-SUFFIX,cloudflare-dns.com
+DOMAIN-SUFFIX,doh.dns.sb
+DOMAIN-SUFFIX,doh.opendns.com
+DOMAIN-SUFFIX,dns.quad9.net
+DOMAIN-SUFFIX,hk-hkg.doh.sb
+IP-CIDR,8.8.8.8/32,no-resolve
+IP-CIDR,8.8.4.4/32,no-resolve
+IP-CIDR,1.1.1.1/32,no-resolve
+IP-CIDR,1.0.0.1/32,no-resolve
+IP-CIDR,185.222.222.222/32,no-resolve
+IP-CIDR,208.67.222.222/32,no-resolve
+IP-CIDR,208.67.220.220/32,no-resolve
+
+
