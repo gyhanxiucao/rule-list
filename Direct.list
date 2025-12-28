@@ -1,15 +1,5 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
-# 我自己的域名
-DOMAIN,gh.yangyangshu.top                       # 代理加速
-DOMAIN,nikki.yangyangshu.top                    # 订阅链接
-DOMAIN,wl.yangyangshu.top                        # CF 节点管理
-DOMAIN,sub.yangyangshu.top                      # 测速地址
-DOMAIN-SUFFIX,yangyangshu.top
-DOMAIN-SUFFIX,lawai.ren
-DOMAIN-SUFFIX,lawai.中国
-
-
 # 健康检查域名
 DOMAIN,cp.cloudflare.com
 DOMAIN,www.gstatic.com
