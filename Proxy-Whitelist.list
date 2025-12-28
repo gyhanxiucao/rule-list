@@ -1,0 +1,16 @@
+# 拦截白名单
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,clash.wiki
+DOMAIN-SUFFIX,storeedgefd.dsx.mp.microsoft.com
+DOMAIN-SUFFIX,edge.microsoft.com
+DOMAIN-SUFFIX,login.live.com
+DOMAIN-SUFFIX,store-images.s-microsoft.com
+DOMAIN-SUFFIX,googlesyndication.com                        # a2zapk 下载
+
+
+
+
+
+
+
